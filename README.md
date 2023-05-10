@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akashaf Khomarudin</h1>
+<h1 align="center">Hi 👋, I'm **Akashaf**</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashaf&label=Profile%20views&color=0e75b6&style=flat" alt="akashaf" /> </p>
