@@ -1,39 +1,63 @@
-# Hi there! 👋  
-Welcome to my GitHub profile!  
-
-🌟 I’m **Aydan**, a passionate **Frontend Engineer** specializing in building elegant and responsive web applications.  
-
----
-
-## 👨‍💻 About Me
-- 💻 Working with **Next.js**, **Node.js**, and **Mantine**.  
-- 🎓 Always learning and exploring new technologies, currently diving into **NestJS**.  
-- 🌏 Based in **Pasir Gudang, Malaysia**.  
-- 💡 I believe in clean code, modern design, and impactful digital solutions.  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F8F8F2&width=435&lines=Welcome+to+My+GitHub+Profile!;Frontend+Developer;Passionate+About+Clean+Code" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🚀 Skills & Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Mantine](https://img.shields.io/badge/-Mantine-3498db?logo=data:image/svg+xml;base64,...)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+# 🌟 About Me
+
+```plaintext
+Hello, world! My name is Akashaf, and I specialize in crafting beautiful, responsive, 
+and modern web applications. With a passion for problem-solving and a strong belief 
+in lifelong learning, I continuously explore new technologies and push boundaries. 
+```
+
+- 💻 Currently diving into **NestJS** and **GraphQL**.
+- 🛠️ Focused on building **Next.js**-powered web applications.
+- 🌱 I enjoy sharing knowledge and learning from the community.
 
 ---
 
-## 📊 GitHub Stats
-![Aydan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+# 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,nodejs,react,tailwind,figma,git,vscode" alt="Skills" />
+</div>
 
 ---
 
-## 🔗 Let's Connect!
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=web&logoColor=white)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+# 📊 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=monokai&hide_title=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=monokai" alt="Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=monokai" alt="Top Languages" />
+</div>
 
 ---
 
-⭐️ _Thanks for visiting my profile! Let’s build something amazing together!_  
+# 🏆 Achievements
+
+- ✅ Successfully developed a **Learning Center System** using Next.js.
+- 🔥 Built a tuition management app that integrates **Mantine** and **Auth.js**.
+- 🌟 Recognized as a **Top 5% Contributor** in Open Source projects.
+
+---
+
+# 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-%23171717?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</div>
+
+---
+
+# 🎨 A Fun Quote
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
+
+---
+
+⭐️ _Thanks for stopping by! I hope we can collaborate on something exciting!_
