@@ -30,7 +30,7 @@ in lifelong learning, I continuously explore new technologies and push boundarie
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akashaf&show_icons=true&theme=monokai&hide_title=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=monokai" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashaf&theme=monokai" alt="Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashaf&layout=compact&theme=monokai" alt="Top Languages" />
 </div>
